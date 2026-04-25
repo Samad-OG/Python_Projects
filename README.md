@@ -34,8 +34,13 @@ An interactive game where the user competes against the computer.
 - [x] **Clean Code**: Meaningful variable names and structured function definitions.
 - [x] **Git Version Control**: Organized folders and meaningful commit messages.
 
-## 🚀 How to Run
-1. Clone the repository.
-2. Navigate to the specific project folder:
-   ```bash
-   cd ATM_Project
+## 🚀 How to Run the Projects (Instructions) :-
+ 1. To Run Both the Codes Of Project:
+Write these commands in the terminal to run this :
+```bash
+**cd ATM_Project
+python main.py
+#
+cd ..
+cd Game_Project
+python main.py
